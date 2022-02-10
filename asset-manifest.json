@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robofriends-rolodex-hooks/static/css/main.970b2351.css",
+    "main.js": "/robofriends-rolodex-hooks/static/js/main.b15608cf.js",
+    "static/js/787.b7847599.chunk.js": "/robofriends-rolodex-hooks/static/js/787.b7847599.chunk.js",
+    "index.html": "/robofriends-rolodex-hooks/index.html",
+    "main.970b2351.css.map": "/robofriends-rolodex-hooks/static/css/main.970b2351.css.map",
+    "main.b15608cf.js.map": "/robofriends-rolodex-hooks/static/js/main.b15608cf.js.map",
+    "787.b7847599.chunk.js.map": "/robofriends-rolodex-hooks/static/js/787.b7847599.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.970b2351.css",
+    "static/js/main.b15608cf.js"
+  ]
+}
